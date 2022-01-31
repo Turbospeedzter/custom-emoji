@@ -3,7 +3,7 @@ import React from "react";
 function Header() {
     return (
     <h1>
-    <span>Funny emojis</span>
+    <span>Bad-boy emojis for Your Evil Side</span>
   </h1>
     );
 }
