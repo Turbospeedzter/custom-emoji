@@ -1,21 +1,22 @@
 const emojilist= [
+const emojilist= [
     {
         id: 1,
         emoji: "💪",
-        name: "I'm strong, baby!",
+        name: "Stick this up your ass!",
         meaning: "I can beat you, buddy! I'm in great shape!"
     },
     {
         id: 2,
         emoji: "😝",
-        name: "Yuch!",
-        meaning: "This is terrible!"
+        name: "You Suck!",
+        meaning: "Get out of my face!"
     },
     
     {
         id: 3,
         emoji: "🤐",
-        name: "Sealed Lips",
+        name: "Don't say a word or I'll kick your ass!",
         meaning: "My lips are sealed!"
     },
 
@@ -29,8 +30,8 @@ const emojilist= [
     {
         id: 5,
         emoji: "😍",
-        name: "In Love",
-        meaning: "I think I'm in love!"
+        name: "Oh, Baby; Oh, Baby!",
+        meaning: "Can we have sex?"
     }
 ];
 
