@@ -1,4 +1,4 @@
-const emojilist= [
+
 const emojilist= [
     {
         id: 1,
